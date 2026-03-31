@@ -6,7 +6,7 @@ const applySettingsButton = document.getElementById('applySettings');
 let settings = {
     music: './music/songalizee.mp3',
     countdown: 3,
-    matrixText: 'HAPPYBIRTHDAY',
+    matrixText: 'ILOVEYOU',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
     sequence: 'HAPPY|BIRTHDAY|TO|ALIZÉE|❤',
@@ -335,7 +335,7 @@ function initializeDefaultSettings() {
         matrixText: 'ILOVEYOU',
         matrixColor1: '#ff69b4', // Màu pink mẫu
         matrixColor2: '#ff1493', // Màu pink mẫu
-        sequence: 'HAPPY|BIRTHDAY|TO|ALIZÉE|❤',
+        sequence: 'TU|ME|MANQUE|ALIZÉE|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
         gift: './image/happy3.gif',
         enableBook: true,
